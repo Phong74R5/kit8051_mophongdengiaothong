@@ -1,5 +1,5 @@
 # kit8051_mophongdengiaothong
-# nút chuyển đổi và chuyển hướng
+## nút chuyển đổi và chuyển hướng
 sử dụng P32 để chuyển chế dộ chỉnh thủ công sang auto và ngược lại
 sử dụng P33 để chuyển hướng khi vào chế độ thủ công
 ![nút chuyển đổi](./image/z5837875481851_2f793686f2f4fda86ed178bd87d56c5c.jpg)
